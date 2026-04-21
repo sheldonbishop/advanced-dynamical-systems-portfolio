@@ -70,7 +70,7 @@ Predict grid stress and infrastructure overload risk.
 - Demand-response causal analysis
 
 Repo:
-https://github.com/YOUR_USERNAME/energy-grid-load-failure
+https://github.com/sheldonbishop/advanced-dynamical-systems-portfolio/tree/master/projects/energy-grid-load-failure
 
 ---
 
@@ -86,7 +86,7 @@ Estimate hidden robot state and actuator degradation.
 - Preventive maintenance analysis
 
 Repo:
-https://github.com/YOUR_USERNAME/robotics-state-estimation-failure
+https://github.com/sheldonbishop/advanced-dynamical-systems-portfolio/tree/master/projects/robotics-state-estimation-failure
 
 ---
 
@@ -102,7 +102,7 @@ Model vehicle health and delivery risk.
 - Maintenance causal impact analysis
 
 Repo:
-https://github.com/YOUR_USERNAME/logistics-fleet-delay-failure
+https://github.com/sheldonbishop/advanced-dynamical-systems-portfolio/tree/master/projects/logistics-fleet-delay-failure
 
 ---
 
