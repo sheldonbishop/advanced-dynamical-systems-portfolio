@@ -54,7 +54,7 @@ Detect hidden market regimes and volatility shifts.
 - Macro causal modeling
 
 Repo:
-https://github.com/YOUR_USERNAME/finance-latent-market-regime
+https://github.com/sheldonbishop/advanced-dynamical-systems-portfolio/tree/master/projects/finance-latent-market-regime
 
 ---
 
