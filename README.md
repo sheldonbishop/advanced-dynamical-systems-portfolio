@@ -38,7 +38,7 @@ Predict patient deterioration using latent health-state modeling.
 - Causal intervention analysis
 
 Repo:
-https://github.com/YOUR_USERNAME/healthcare-dynamic-patient-risk
+https://github.com/sheldonbishop/advanced-dynamical-systems-portfolio/tree/master/projects/healthcare-dynamic-patient-risk
 
 ---
 
